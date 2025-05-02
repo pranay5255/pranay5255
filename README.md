@@ -33,6 +33,16 @@
 <sub>*Full details in&nbsp;résumé → /resume.pdf*</sub>
 
 ---
+<details>
+<summary>📜 &nbsp;Résumé (quick peek)</summary>
+
+> **Senior ML / Crypto Engineer** • 8 yrs in AI, 2 yrs in Web3  
+> **Domains:** LLMs, on‑chain analytics, DeFi infra, distributed data systems  
+> **Highlights:** Built prompt‑to‑dApp generator, petabyte‑scale EVM OLAP, MEGAETH top‑50, Gitcoin KB8 fellow  
+> **Mission:** Democratise AI + crypto tooling through local‑first, privacy‑preserving software.
+
+</details>
+---
 
 ## 💫 About Me
 - 🔭 **Building now:** **Yudai v2** – local‑first, fully offline AI data analyst (prompt → dashboard)  
@@ -109,10 +119,6 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranay5255&show_icons=true&theme=radical&hide_border=true" height="180">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay5255&layout=compact&theme=radical&hide_border=true" height="180">
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranay5255&theme=radical&no-frame=true&margin-w=4">
@@ -120,15 +126,6 @@
 
 ---
 
-<details>
-<summary>📜 &nbsp;Résumé (quick peek)</summary>
-
-> **Senior ML / Crypto Engineer** • 8 yrs in AI, 2 yrs in Web3  
-> **Domains:** LLMs, on‑chain analytics, DeFi infra, distributed data systems  
-> **Highlights:** Built prompt‑to‑dApp generator, petabyte‑scale EVM OLAP, MEGAETH top‑50, Gitcoin KB8 fellow  
-> **Mission:** Democratise AI + crypto tooling through local‑first, privacy‑preserving software.
-
-</details>
 
 <!-- -----------------------------------------------------------
 🥷 ᕙ(⇀‸↼‶)ᕗ Built with grit, curiosity & too much ☕
