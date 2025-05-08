@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <em>I ship local‑first AI ✕ crypto products that feel like magic and scale like AWS.<br>
+  <em>I ship local‑first AI  and crypto products that feel like magic and scale like AWS.<br>
   Currently building <strong>Yudai v2</strong> – an offline AI data analyst for prompt‑driven dashboards & insights.</em>
 </p>
 
