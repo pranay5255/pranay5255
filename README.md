@@ -19,7 +19,7 @@ My goal? Empower indie hackers, researchers, and builders with local-first AI st
 
 <h2 align="center">🚀 Highlight Reel</h2>
 
-- **Llama Impact Grant Winner** – recognized for pushing open-source AI tooling ([announcement below](#llama-impact-grant-spotlight))  
+- **Llama Impact Grant Winner** – recognized for pushing open-source AI tooling ([announcemet link - https://x.com/pranay5255/status/1917873008758456630))  
 - **solo-server OSS maintainer** – 300+ indie devs using it to deploy local models in seconds  
 - **Yudai v2** – offline AI analyst for product teams (self-hosted)  
 - **National-level hackathon mentor** – mentored 50+ teams; winners at Smart India Hackathon, Prayatna 2.0 at AITR university. 
