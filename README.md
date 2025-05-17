@@ -1,15 +1,11 @@
-<!-- -----------------------------------------------------------
-📜 PRANAY KUNDU • @pranay5255
------------------------------------------------------------ -->
-
 <h1 align="center">
-  Hi, I’m Pranay – I build open-source AI that works offline, learns fast, and gives power back to devs.
+  Hi, I’m Pranay – I build open-source AI that works offline, learns fast, and gives power back to devs.
 </h1>
 
 <p align="center">
-  <em>I craft local‑first <strong>Generative&nbsp;AI</strong> and ML tools that feel like magic and scale like AWS.<br>
-  Currently building <strong>Yudai v2</strong> (offline AI data analyst) and <strong>solo-server</strong> (drop-in LLM server for 24GB GPUs).
-  </em>
+  <em>I craft local‑first <strong>Generative&nbsp;AI</strong> and ML tools that feel like magic and scale like AWS.<br>
+  Currently building <strong>Yudai v2</strong> (offline AI data analyst) and <strong>solo-server</strong> (drop-in LLM server for 24GB GPUs).
+  </em>
 </p>
 
 ---
@@ -29,36 +25,25 @@ My goal? Empower indie hackers, researchers, and builders with local-first AI st
 
 <h2 align="center">🚀 Highlight Reel</h2>
 
-- **Llama Impact Grant Winner** – recognized for pushing open-source AI tooling ([announcement below](#llama-impact-grant-spotlight))  
-- **solo-server OSS maintainer** – 300+ indie devs using it to deploy local models in seconds  
-- **Yudai v2** – offline AI analyst for product teams (self-hosted Dune + GPT-native UX)  
-- **National-level hackathon mentor** – mentored 50+ teams; winners at Smart India Hackathon, Prayatna 2.0 at AITR university. 
-- **Deep Web3 Infra Contributor** – built protocol tools (AI explainer bots, AI agents for defi, Twitter bots for yapping) for Mode, FortyTwo money and NoFeeSwap  
-- **Top 50 Global Kernel Founders (KB8)** – selected into Gitcoin’s elite founder cohort driving innovation in AI x Web3  
-- **Finalist, MEGAZU Pop-up City** – chosen among top engineers globally to build Web3 infra with EigenLayer, Ethereum foundation and MegaETH. 
-- **Petabyte-scale ETL @ CoinSwitch** – production Spark/Airflow pipelines for ML + risk systems  
-- **Vgyaan (pre-GPT)** – BERT-powered edtech system that answered 120k+ questions/night  
+- **Llama Impact Grant Winner** – recognized for pushing open-source AI tooling ([announcement below](#llama-impact-grant-spotlight))  
+- **solo-server OSS maintainer** – 300+ indie devs using it to deploy local models in seconds  
+- **Yudai v2** – offline AI analyst for product teams (self-hosted)  
+- **National-level hackathon mentor** – mentored 50+ teams; winners at Smart India Hackathon, Prayatna 2.0 at AITR university. 
+- **Deep Web3 Infra Contributor** – built protocol tools (AI explainer bots, AI agents for defi, Twitter bots for yapping) for Mode, FortyTwo money and NoFeeSwap  
+- **Top 50 Global Kernel Founders (KB8)** – selected into Gitcoin’s elite founder cohort driving innovation in AI x Web3  
+- **Finalist, MEGAZU Pop-up City** – chosen among top engineers globally to build Web3 infra with EigenLayer, Ethereum foundation and MegaETH. 
+- **Petabyte-scale ETL @ CoinSwitch** – production Spark/Airflow pipelines for ML + risk systems  
+- **Vgyaan (pre-GPT)** – BERT-powered edtech system that answered 120k+ questions/night  
 - **Core AI builder at heart – I live for shipping 👷‍♂️→🚀**
-
----
-
-## 🦙 Llama Impact Grant Spotlight
-
-<div align="center">
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We did it! 🎉 Grateful to win the <a href="https://twitter.com/llama_team">@llama_team</a> Impact Grant for pushing open-source AI tooling.<br>Let’s keep building for everyone!<br><br>Full details &gt; <a href="https://x.com/pranay5255/status/1917873008758456630?t=UvvywIrYzsSJ_GGVjlmZFg&s=19">x.com/pranay5255/status</a></p>&mdash; Pranay Kundu (@pranay5255) <a href="https://x.com/pranay5255/status/1917873008758456630">April 21, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</div>
 
 ---
 
 <details>
 <summary>📜 &nbsp;Résumé Snapshot</summary>
 
-> **Senior ML / GenAI Engineer** • 8 yrs in AI, 2 yrs in crypto infra  
-> **Domains:** LLMs, generative agents, on-chain AI, distributed data systems  
-> **Highlights:** solo-server maintainer, Llama Grant winner, Kernel Founder, Web3 finalist @ MEGAETH  
+> **Senior ML / GenAI Engineer** • 8 yrs in AI, 2 yrs in crypto infra  
+> **Domains:** LLMs, generative agents, on-chain AI, distributed data systems  
+> **Highlights:** solo-server maintainer, Llama Grant winner, Kernel Founder, Web3 finalist @ MEGAETH  
 > **Mission:** Build tools that give people superpowers, not cloud lock-in.
 
 </details>
@@ -69,27 +54,31 @@ My goal? Empower indie hackers, researchers, and builders with local-first AI st
 
 These shape how I think about training, distilling, and deploying performant LLMs:
 
-- **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** – reasoning via RL and BoN distillation  
-- **[Reducing Activation Recomputation in Transformers (NVIDIA)](https://arxiv.org/abs/2205.05198)** – sequence & tensor parallelism to scale 530B+ models  
-- **[LoRA Insights by Lightning AI](https://lightning.ai/pages/community/lora-insights/)** – parameter-efficient fine-tuning on low-resource GPUs  
-- **[On-Policy Distillation (ICLR 2024)](https://arxiv.org/abs/2306.13649)** – GKD for student-teacher alignment with minimal mismatch  
-- **[Reinforcement Learning with Verifiable Rewards (RLVR)](https://arxiv.org/abs/2402.03300)** – reward guarantees for reasoning tasks  
-- **[TabPFN](https://arxiv.org/abs/2307.14235)** – foundation models for small-data tabular learning
+- **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** – reasoning via RL and BoN distillation  
+- **[LoRA Insights by Lightning AI](https://lightning.ai/pages/community/lora-insights/)** – parameter-efficient fine-tuning on low-resource GPUs  
+- **[Reinforcement Learning with Verifiable Rewards (RLVR)](https://arxiv.org/abs/2402.03300)** – reward guarantees for reasoning tasks  
+- **[TabPFN](https://arxiv.org/abs/2307.14235)** – foundation models for small-data tabular learning  
+- **[Absolute Zero Reasoner (AZR)](https://arxiv.org/abs/2403.12303)** – few-shot zero-reasoning for complex reasoning in LMs  
+- **[GRPO: Group-based Reinforcement Policy Optimization](https://yugeten.github.io/posts/2025/01/ppogrpo/)** – advances over PPO, novel RL algorithm from DeepSeek  
+- **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** – zero-spread market making, liquidity growth AMM design  
+- **[SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2405.15793)** – open-source pipeline for scalable code bug synthesis, dataset & agent finetuning for SWE-bench:contentReference[oaicite:0]{index=0}  
+- **[debug-gym: A Text-Based Environment for Interactive Debugging](https://arxiv.org/abs/2503.21557)** – interactive, tool-augmented agent environment for LLM-based debugging, SWE-bench integration:contentReference[oaicite:1]{index=1}  
 
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 **Current Projects:**  
-  - Yudai v2 – offline data analyst for product & growth teams  
-  - solo-server – localhost drop-in server for open LLMs  
-- 🕸️ **Crypto Infra:**  
-  - AI-powered governance tools for DAOs (L2 Mode)  
-  - Flash-combo UI + Python assembler for NoFeeSwap  
-  - Built Ethereum devtools + L2 analytics from scratch  
-- 🧠 **Learning:** Verifiable rewards, activation tricks, TinyML, open hardware wallets  
+- 🔭 **Current Projects:**  
+  - Yudai v2 – offline data analyst for product & growth teams  
+  - solo-server – localhost drop-in server for open LLMs  
+- 🕸️ **Crypto Infra:**  
+  - AI-powered governance tools for DAOs (L2 Mode)  
+  - Flash-combo UI + Python assembler for NoFeeSwap  
+  - Built Ethereum devtools + L2 analytics from scratch  
+- 🧠 **Learning:** Verifiable rewards, activation tricks, TinyML, open hardware wallets  
 - 🧵 **Recent focus:** Merging AI reasoning with tokenized state – from local LLMs to on-chain proof systems
+- ❤️ **Philosophy:** I thrive on exploring AI and crypto research, and I'm passionate about shipping products that users genuinely find valuable and love to use.
 
 ---
 
@@ -104,6 +93,13 @@ These shape how I think about training, distilling, and deploying performant LLM
 ![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=plastic&logo=chainlink&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?style=plastic&logo=react&logoColor=61DAFB)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=plastic&logo=fastapi&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
 ---
 
@@ -117,11 +113,7 @@ These shape how I think about training, distilling, and deploying performant LLM
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranay5255&theme=radical&no-frame=true&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranay5255&theme=radical&no-frame=true&margin-w=4">
 </p>
 
 ---
-
-<!-- -----------------------------------------------------------
-🏗️ Built with curiosity, grit & just enough ☕
------------------------------------------------------------ -->
