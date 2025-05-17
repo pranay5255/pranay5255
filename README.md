@@ -9,7 +9,7 @@
 AI should be accessible, private, and fast – not hidden behind APIs.
 
 That's why I build tools like:
-- **Yudai v2** — a self-hosted, prompt-based data analyst (think Dune, but local)
+- **Yudai v2** — a self-hosted, prompt-based data analyst 
 - **solo-server** — a one-command LLM playground for Qwen, DeepSeek, and more
 - **DeepSeek-R1 Distillation** — distilled a 7B reasoning model to 40% SWE-bench pass@1 on a single GPU
 
@@ -64,11 +64,8 @@ These shape how I think about training, distilling, and deploying performant LLM
   - Yudai v2 – offline data analyst for product & growth teams  
   - solo-server – localhost drop-in server for open LLMs  
 - 🕸️ **Crypto Infra:**  
-  - AI-powered governance tools for DAOs (L2 Mode)  
-  - Flash-combo UI + Python assembler for NoFeeSwap  
-  - Built Ethereum devtools + L2 analytics from scratch  
-- 🧠 **Learning:** Verifiable rewards, activation tricks, TinyML, open hardware wallets  
-- 🧵 **Recent focus:** Merging AI reasoning with tokenized state – from local LLMs to on-chain proof systems
+  - AI-powered governance tools for DAOs (L2 Mode)   
+- 🧠 **Learning:** Verifiable rewards, activation tricks
 - ❤️ **Philosophy:** I thrive on exploring AI and crypto research, and I'm passionate about shipping products that users genuinely find valuable and love to use.
 
 ---
