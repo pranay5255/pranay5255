@@ -2,12 +2,6 @@
   Hi, I’m Pranay – I build open-source AI that works offline, learns fast, and gives power back to devs.
 </h1>
 
-<p align="center">
-  <em>I craft local‑first <strong>Generative&nbsp;AI</strong> and ML tools that feel like magic and scale like AWS.<br>
-  Currently building <strong>Yudai v2</strong> (offline AI data analyst) and <strong>solo-server</strong> (drop-in LLM server for 24GB GPUs).
-  </em>
-</p>
-
 ---
 
 ## ⚡ Why I Build
