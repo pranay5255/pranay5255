@@ -23,7 +23,7 @@ My goal? Empower indie hackers, researchers, and builders with local-first AI st
 - **solo-server OSS maintainer** – 300+ indie devs using it to deploy local models in seconds  
 - **Yudai v2** – offline AI analyst for product teams (self-hosted)  
 - **National-level hackathon mentor** – mentored 50+ teams; winners at Smart India Hackathon, Prayatna 2.0 at AITR university. 
-- **Deep Web3 Infra Contributor** – built protocol tools (AI explainer bots, AI agents for defi, Twitter bots for yapping) for Mode, FortyTwo money and NoFeeSwap  
+- **Deep Web3 Infra Contributor** – built protocol tools (AI explainer bots, AI agents for defi, Twitter bots for yapping) for Mode, FortyTwo money 
 - **Top 50 Global Kernel Founders (KB8)** – selected into Gitcoin’s elite founder cohort driving innovation in AI x Web3  
 - **Finalist, MEGAZU Pop-up City** – chosen among top engineers globally to build Web3 infra with EigenLayer, Ethereum foundation and MegaETH. 
 - **Petabyte-scale ETL @ CoinSwitch** – production Spark/Airflow pipelines for ML + risk systems  
@@ -51,8 +51,8 @@ These shape how I think about training, distilling, and deploying performant LLM
 - **[LoRA Insights by Lightning AI](https://lightning.ai/pages/community/lora-insights/)** – parameter-efficient fine-tuning on low-resource GPUs
 - **[Reinforcement Learning with Verifiable Rewards (RLVR)](https://arxiv.org/abs/2503.23829)** – reward guarantees for reasoning tasks 
 - **[TabPFN](https://www.nature.com/articles/s41586-024-08328-6)** – foundation models for small-data tabular learning 
-- **[Absolute Zero Reasoner (AZR)](https://arxiv.org/abs/2505.03335)** – few-shot zero-reasoning for complex reasoning in LMs (Note: Updated to "Absolute Zero: Reinforced Self-play Reasoning with Zero Data")
-- **[GRPO: Group-based Reinforcement Policy Optimization](https://arxiv.org/abs/2401.08406)** – advances over PPO, novel RL algorithm from DeepSeek (Note: Updated to the DeepSeekMath paper introducing GRPO)
+- **[Absolute Zero Reasoner (AZR)](https://arxiv.org/abs/2505.03335)** – few-shot zero-reasoning for complex reasoning in LMs
+- **[GRPO: Group-based Reinforcement Policy Optimization](https://arxiv.org/abs/2401.08406)** – advances over PPO, novel RL algorithm from DeepSeek 
 - **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** – zero-spread market making, liquidity growth AMM design
 - **[SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)** – open-source pipeline for scalable code bug synthesis, dataset & agent finetuning for SWE-bench:contentReference[oaicite:0]{index=0} (Note: Updated to the correct arXiv ID for "SWE-smith")
 - **[debug-gym: A Text-Based Environment for Interactive Debugging](https://arxiv.org/abs/2503.21557)** – interactive, tool-augmented agent environment for LLM-based debugging, SWE-bench integration:contentReference[oaicite:1]{index=1}
@@ -63,8 +63,6 @@ These shape how I think about training, distilling, and deploying performant LLM
 - 🔭 **Current Projects:**  
   - Yudai v2 – offline data analyst for product & growth teams  
   - solo-server – localhost drop-in server for open LLMs  
-- 🕸️ **Crypto Infra:**  
-  - AI-powered governance tools for DAOs (L2 Mode)   
 - 🧠 **Learning:** Verifiable rewards, activation tricks
 - ❤️ **Philosophy:** I thrive on exploring AI and crypto research, and I'm passionate about shipping products that users genuinely find valuable and love to use.
 
