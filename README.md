@@ -54,8 +54,8 @@ These shape how I think about training, distilling, and deploying performant LLM
 - **[Absolute Zero Reasoner (AZR)](https://arxiv.org/abs/2505.03335)** – few-shot zero-reasoning for complex reasoning in LMs
 - **[GRPO: Group-based Reinforcement Policy Optimization](https://arxiv.org/abs/2401.08406)** – advances over PPO, novel RL algorithm from DeepSeek 
 - **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** – zero-spread market making, liquidity growth AMM design
-- **[SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)** – open-source pipeline for scalable code bug synthesis, dataset & agent finetuning for SWE-bench:contentReference[oaicite:0]{index=0} (Note: Updated to the correct arXiv ID for "SWE-smith")
-- **[debug-gym: A Text-Based Environment for Interactive Debugging](https://arxiv.org/abs/2503.21557)** – interactive, tool-augmented agent environment for LLM-based debugging, SWE-bench integration:contentReference[oaicite:1]{index=1}
+- **[SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)** – open-source pipeline for scalable code bug synthesis, dataset & agent finetuning for SWE-bench
+- **[debug-gym: A Text-Based Environment for Interactive Debugging](https://arxiv.org/abs/2503.21557)** – interactive, tool-augmented agent environment for LLM-based debugging
 ---
 
 ## 🧠 About Me
