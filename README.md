@@ -1,70 +1,60 @@
 <h1 align="center">
-  Hi, I’m Pranay – I build open-source AI that works offline, learns fast, and gives power back to devs.
+  Hi, I’m Pranay – I build open-source AI that runs offline, learns fast, and puts devs back in control.
 </h1>
 
 ---
 
 ## ⚡ Why I Build
 
-AI should be accessible, private, and fast – not hidden behind APIs.
+I believe the intersection of **AI x Crypto** is where the hardest, most meaningful problems live.
 
-That's why I build tools like:
-- **Yudai v2** — a self-hosted, prompt-based data analyst 
-- **solo-server** — a one-command LLM playground for Qwen, DeepSeek, and more
-- **DeepSeek-R1 Distillation** — distilled a 7B reasoning model to 40% SWE-bench pass@1 on a single GPU
+I build because I want devs to own their models, their data, and their infra — not rent them behind black-box APIs.  
+I care about making AI local, auditable, and fast — and crypto the backbone of trust and verifiability.
 
-My goal? Empower indie hackers, researchers, and builders with local-first AI stacks.
+So I’m shipping:
+- **Yudai v3** — a programmable codex that turns raw product context into testable GitHub issues and PRs — crypto-native and local-first.
+- **solo-server** — run open LLMs like Qwen and DeepSeek on your own machine, no middlemen.
+- **DeepSeek-R1 Distillation** — proving reasoning doesn’t need massive clouds — just smart research and open hardware.
+
+I’m here to help builders stay independent — and to push AI and crypto to serve people, not gatekeepers.
+
 
 ---
 
 <h2 align="center">🚀 Highlight Reel</h2>
 
-- **Llama Impact Grant Winner** – recognized for pushing open-source AI tooling ([announcemet link - https://x.com/pranay5255/status/1917873008758456630))  
-- **solo-server OSS maintainer** – 300+ indie devs using it to deploy local models in seconds  
-- **Yudai v2** – offline AI analyst for product teams (self-hosted)  
-- **National-level hackathon mentor** – mentored 50+ teams; winners at Smart India Hackathon, Prayatna 2.0 at AITR university. 
-- **Deep Web3 Infra Contributor** – built protocol tools (AI explainer bots, AI agents for defi, Twitter bots for yapping) for Mode, FortyTwo money 
-- **Top 50 Global Kernel Founders (KB8)** – selected into Gitcoin’s elite founder cohort driving innovation in AI x Web3  
-- **Finalist, MEGAZU Pop-up City** – chosen among top engineers globally to build Web3 infra with EigenLayer, Ethereum foundation and MegaETH. 
-- **Petabyte-scale ETL @ CoinSwitch** – production Spark/Airflow pipelines for ML + risk systems  
-- **Vgyaan (pre-GPT)** – BERT-powered edtech system that answered 120k+ questions/night  
-- **Core AI builder at heart – I live for shipping 👷‍♂️→🚀**
+- **Llama Impact Grant Winner** — recognized for pushing open-source AI tooling ([announcement](https://x.com/pranay5255/status/1917873008758456630))
+- **solo-server OSS Maintainer** — powers 300+ indie dev deployments for local LLMs
+- **Yudai v3** — a cloud-native + local codex chaining PM → Architect → Coder agents to ship test-driven PRs automatically
+- **Kernel KB8 Founder & Community Mentor** — Gitcoin’s top 50 global founder cohort driving AI x Web3 innovation
+- **Web3 Infra Contributor** — built protocol tools for Mode, FortyTwo Money, EigenLayer, and MegaETH testnet
+- **Finalist, MEGAZU Pop-up City** — selected to prototype cutting-edge Web3 infra with Ethereum Foundation & EigenLayer
+- **National-Level Hackathon Mentor** — 50+ teams guided; winners at Smart India Hackathon & Prayatna 2.0 (AITR)
+- **Petabyte-Scale ETL @ CoinSwitch** — production-grade Spark & Airflow for ML and risk pipelines
+- **Vgyaan (pre-GPT)** — BERT-powered edtech system that resolved 120k+ student questions per night
+- **I ship → learn → repeat 👷‍♂️ → 🚀**
 
 ---
 
-<details>
-<summary>📜 &nbsp;Résumé Snapshot</summary>
 
-> **Senior ML / GenAI Engineer** • 8 yrs in AI, 2 yrs in crypto infra  
-> **Domains:** LLMs, generative agents, on-chain AI, distributed data systems  
-> **Highlights:** solo-server maintainer, Llama Grant winner, Kernel Founder, Web3 finalist @ MEGAETH  
-> **Mission:** Build tools that give people superpowers, not cloud lock-in.
+## 📚 Research Fueling My Builds
 
-</details>
+Core papers & concepts shaping how I build Yudai v3 and my agentic stack:
+- **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** — RL + bag-of-narratives distillation for efficient reasoning.
+- **[Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2503.23829)** — provable reward guarantees for reasoning agents.
+- **[Absolute Zero Reasoner](https://arxiv.org/abs/2505.03335)** — pushing zero-shot and zero-reasoning capability in LMs.
+- **[SWE-smith](https://arxiv.org/abs/2504.21798)** & **[debug-gym](https://arxiv.org/abs/2503.21557)** — scaling bug synthesis and building tool-augmented SWE agents.
+- **[LLM → SLM Agent Conversion](https://arxiv.org/pdf/2506.02153)** — bridging generalist LLMs to specialist SLM agents for codex workflows.
+- **[DSPy](https://arxiv.org/abs/2402.09368)** — compositional orchestration for multi-agent LLM pipelines.
+- **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** — zero-spread AMMs & liquidity design — I’m prototyping this in Solidity.
 
 ---
 
-## 📚 Papers I’m Studying Right Now
+## 🧠 What I’m Shipping Next
 
-These shape how I think about training, distilling, and deploying performant LLMs:
-- **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** – reasoning via RL and BoN distillation
-- **[LoRA Insights by Lightning AI](https://lightning.ai/pages/community/lora-insights/)** – parameter-efficient fine-tuning on low-resource GPUs
-- **[Reinforcement Learning with Verifiable Rewards (RLVR)](https://arxiv.org/abs/2503.23829)** – reward guarantees for reasoning tasks 
-- **[TabPFN](https://www.nature.com/articles/s41586-024-08328-6)** – foundation models for small-data tabular learning 
-- **[Absolute Zero Reasoner (AZR)](https://arxiv.org/abs/2505.03335)** – few-shot zero-reasoning for complex reasoning in LMs
-- **[GRPO: Group-based Reinforcement Policy Optimization](https://arxiv.org/abs/2401.08406)** – advances over PPO, novel RL algorithm from DeepSeek 
-- **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** – zero-spread market making, liquidity growth AMM design
-- **[SWE-smith: Scaling Data for Software Engineering Agents](https://arxiv.org/abs/2504.21798)** – open-source pipeline for scalable code bug synthesis, dataset & agent finetuning for SWE-bench
-- **[debug-gym: A Text-Based Environment for Interactive Debugging](https://arxiv.org/abs/2503.21557)** – interactive, tool-augmented agent environment for LLM-based debugging
----
-
-## 🧠 About Me
-
-- 🔭 **Current Projects:**  
-  - Yudai v2 – offline data analyst for product & growth teams  
-  - solo-server – localhost drop-in server for open LLMs  
-- 🧠 **Learning:** Verifiable rewards, activation tricks
-- ❤️ **Philosophy:** I thrive on exploring AI and crypto research, and I'm passionate about shipping products that users genuinely find valuable and love to use.
+- **Yudai v3** — rolling out July 2025 to an invite-only pilot cohort (crypto payments only).  
+- **solo-server upgrades** — smaller, faster, edge-ready models.
+- **New Codex Agents** — task-specialized SLMs, verifiable rewards, test-first PR workflows.
 
 ---
 
