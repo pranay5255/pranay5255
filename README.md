@@ -32,34 +32,6 @@ I’m here to help builders stay independent — and to push AI and crypto to se
 
 ---
 
-<h2 align="center">🏷️ Yudai Labs — What I Do for Teams</h2>
-<p align="center"><i>Practical AI for US/EU/Canada SMBs: deploy a private copilot, a do-the-task agent, or a tuned model — usually in weeks.</i></p>
-
-### Services
-- **AI Deployment (RAG & Small Models)**  
-  Private, brand-tuned assistants grounded in your docs, tickets, and data. Options: local/VPC or managed.
-- **Agentic Workflows**  
-  Bounded agents that actually finish work (refunds within policy, scheduling, ticket triage, lead outreach) with audit logs + guardrails.
-- **Fine-Tuning & Evaluation**  
-  Domain-tuned SLMs/adapters that beat generic LLMs on your tasks (lower latency, lower cost). Clear win-loss vs baseline.
-- **Classical ML & Data Science**  
-  Forecasting, lead scoring, segmentation, anomaly detection — notebooks → services with monitoring.
-
-### Where it Pays Off (Use-case Menu)
-**Operations:** document AI for invoices/POs/contracts, inventory signals, back-office runner.  
-**Sales & Marketing:** lead-gen copilot, brand-tuned content + ad draft + A/B loop, site FAQ/RAG that converts.  
-**Customer Service:** Tier-0 deflection bot, after-hours agent (status/refunds), voice inbox summarization.  
-**Software & IT:** repo-aware dev copilot, issue-to-PR pipeline, internal code/docs search with `pgvector`.
-
-### How I Work
-1. **Discovery (free 30 min):** pick 1–2 high-ROI workflows.  
-2. **Design Sprint (1 week):** model/tool choices, evals, guardrails.  
-3. **Pilot (2–4 weeks):** dockerized delivery, metrics, “go/no-go”.  
-4. **Scale:** monitoring, retraining cadence, playbook handover.  
-<sub><b>Promise:</b> If we don’t see a credible ROI signal by week 2, you pause — no hard feelings.</sub>
-
----
-
 <h2 align="center">🚀 Highlight Reel</h2>
 
 - **Llama Impact Grant Winner** — recognized for pushing open-source AI tooling ([announcement](https://x.com/pranay5255/status/1917873008758456630))
@@ -83,8 +55,15 @@ Core papers & concepts shaping Yudai v3 and my agentic stack:
 - **[Absolute Zero Reasoner](https://arxiv.org/abs/2505.03335)** — pushing zero-shot/zero-reasoning capability in LMs  
 - **[SWE-smith](https://arxiv.org/abs/2504.21798)** & **[debug-gym](https://arxiv.org/abs/2503.21557)** — scaling bug synthesis + tool-augmented SWE agents  
 - **[LLM → SLM Agent Conversion](https://arxiv.org/pdf/2506.02153)** — turning generalist LLMs into specialist SLMs for codex workflows  
-- **[DSPy](https://arxiv.org/abs/2402.09368)** — compositional orchestration for multi-agent pipelines  
 - **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** — zero-spread AMMs & liquidity design (I’m prototyping this in Solidity)
+
+- **[Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)** — architecture, training, and evals for the Qwen3 family  
+- **[FlashAttention-3](https://arxiv.org/abs/2407.08608)** — exact attention with warp-group asynchrony + FP8/FP16 paths on H100  
+- **[The Ultra-Scale Playbook (Hugging Face)](https://huggingface.co/spaces/nanotron/ultrascale-playbook/blob/main/The_Ultra-Scale_Playbook_Training_LLMs_on_GPU_Clusters.pdf)** — systems/org patterns for large-scale LLM training  
+- **[Smol LM Training Playbook (Hugging Face)](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)** — practical recipes for small/efficient LMs  
+- **[LIMI: Less is More for Agency](https://arxiv.org/abs/2509.17567)** — simplifying agent stacks while retaining capability  
+- **[Accurate predictions on small data with a tabular foundation model (Nature, 2025)](https://www.nature.com/articles/s41586-024-08328-6)** — TabPFN for few-shot/small-data tabular learning  
+- **[Barbarians at the Gate: How AI is Upending Systems Research](https://arxiv.org/abs/2510.06189)** — perspective on AI’s impact on systems research
 
 ---
 
