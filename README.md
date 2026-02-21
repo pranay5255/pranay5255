@@ -31,18 +31,15 @@ Here's what I'm actively shipping:
 - **[yudai-swe-agent](https://github.com/pranay5255/yudai-swe-agent)** — smart contract security agent automating audits, PoC generation, and fixes using Foundry, with exploit harness and early failure detection
 
 **🔍 Knowledge & Search**
-- **[qmd](https://github.com/pranay5255/qmd)** — mini CLI search engine for local docs and knowledge bases with HyDE embeddings, query expansion (LiquidAI LFM2), and structured lexical syntax
 - **[yudai-grep](https://github.com/pranay5255/yudai-grep)** — semantic code search built for repository-level agent workflows
 
 **🧪 Training & Benchmarks**
 - **[yudai-SERA](https://github.com/pranay5255/yudai-SERA)** — data generation and training for Soft-Verified Efficient Repository Agents
 - **[yudai-SWE-smith](https://github.com/pranay5255/yudai-SWE-smith)** — scaling bug synthesis and validation on Modal with JavaScript/Rust procedural modifiers
-- **[AssetOpsBench](https://github.com/pranay5255/AssetOpsBench)** — Industry 4.0 benchmark with MCP server implementation and IoT/CouchDB integration
 - **[openevolve-deepspeed](https://github.com/pranay5255/openevolve-deepspeed)** — open-source AlphaEvolve implementation for LLM-driven program evolution
 
 **⛓️ Crypto-Native Tools**
 - **[clawdaq](https://github.com/pranay5255/clawdaq)** — Stack Exchange for AI agents with x402 payment integration and USDC-based registration
-- **[TrustlessLocalAgents](https://github.com/pranay5255/TrustlessLocalAgents)** — x402-powered agents running locally with multi-chain support (Base, Monad, Polygon, Solana)
 - **[erc-8004-contracts](https://github.com/pranay5255/erc-8004-contracts)** — agent registry contracts curated for trustless agent infrastructure
 
 **⚡ Performance & Kernels**
@@ -74,8 +71,7 @@ I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-serve
 ### Reasoning, RL, and verifiable rewards
 - **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** — RL + distillation patterns for efficient reasoning (and what "reasoning supervision" really looks like)
 - **[Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2503.23829)** — reward design where correctness is checkable, not vibes
-- **[Absolute Zero Reasoner](https://arxiv.org/abs/2505.03335)** — pushing capability with minimal scaffolding + strong evaluation discipline
-- **DeepSeek-R1 distillation notes** — how to compress "thinking" into smaller codex-grade models without losing usefulness
+
 
 ### SWE agents, debugging, and data engines for code
 - **[SWE-smith](https://arxiv.org/abs/2504.21798)** — synthetic bug/task generation as a scaling lever for SWE agents
@@ -83,15 +79,12 @@ I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-serve
 - **[LLM → SLM Agent Conversion](https://arxiv.org/pdf/2506.02153)** — turning general LLMs into specialist codex/agent SLMs for workflows
 - **SWE-agent / mini-SWE patterns (execution harnesses)** — repo parsing → plan → edit loop → tests/CI → PR (the stuff that actually ships)
 
-### Local-first models and efficient systems
+### Small Language models Training LITERATURE
 - **[Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)** — model family tradeoffs + what makes Qwen great for local coders
 - **Flash attention + long context scaling** — the practical path: throughput first, then context, then agent reliability
 - **[FlashAttention-3](https://arxiv.org/abs/2407.08608)** — exact attention engineering for real speed (H100-class kernels)
 - **[The Ultra-Scale Playbook (Hugging Face)](https://huggingface.co/spaces/nanotron/ultrascale-playbook/blob/main/The_Ultra-Scale_Playbook_Training_LLMs_on_GPU_Clusters.pdf)** — cluster + org patterns that actually work
 - **[Smol LM Training Playbook (Hugging Face)](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)** — small-model recipes: KD, data curation, eval discipline, deployment constraints
-
-### Tabular + product analytics foundations (for "AI analyst" workflows)
-- **[Accurate predictions on small data with a tabular foundation model (Nature, 2025)](https://www.nature.com/articles/s41586-024-08328-6)** — TabPFN-style few-shot tabular learning (small data, real impact)
 
 ### Systems worldview + where AI is pushing the frontier
 - **[Barbarians at the Gate: How AI is Upending Systems Research](https://arxiv.org/abs/2510.06189)** — how research changes when agents can prototype systems rapidly
@@ -108,7 +101,6 @@ I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-serve
 **Active Development (Feb 2026)**
 - **YudaiV3** — Real-time trajectory streaming with Modal infrastructure migration and redesigned workspace UI
 - **solo-server** — Bimanual robot arm support (RealMan R1D2, Koch) with improved calibration and teleoperation workflows
-- **qmd** — Structured search with LiquidAI LFM2 query expansion and HyDE vector similarity for local knowledge bases
 - **yudai-swe-agent** — v3 exploit harness with Foundry fork management and early failure detection for smart contract security
 - **AssetOpsBench** — MCP (Model Context Protocol) server with IoT/CouchDB integration for Industry 4.0 agent benchmarking
 - **clawdaq** — x402 payment flow integration for trustless AI agent registration with USDC-based fees
