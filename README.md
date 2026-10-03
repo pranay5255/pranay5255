@@ -30,13 +30,10 @@ Here's what I'm actively shipping:
 - **[solo-server](https://github.com/pranay5255/solo-server)** — physical AI inference server powering 300+ deployments with LeRobot integration, bimanual arm support (RealMan R1D2, Koch), and local robot learning workflows
 - **[yudai-swe-agent](https://github.com/pranay5255/yudai-swe-agent)** — smart contract security agent automating audits, PoC generation, and fixes using Foundry, with exploit harness and early failure detection
 
-**🔍 Knowledge & Search**
-- **[yudai-grep](https://github.com/pranay5255/yudai-grep)** — semantic code search built for repository-level agent workflows
-
 **🧪 Training & Benchmarks**
 - **[yudai-SERA](https://github.com/pranay5255/yudai-SERA)** — data generation and training for Soft-Verified Efficient Repository Agents
 - **[yudai-SWE-smith](https://github.com/pranay5255/yudai-SWE-smith)** — scaling bug synthesis and validation on Modal with JavaScript/Rust procedural modifiers
-- **[openevolve-deepspeed](https://github.com/pranay5255/openevolve-deepspeed)** — open-source AlphaEvolve implementation for LLM-driven program evolution
+
 
 **⛓️ Crypto-Native Tools**
 - **[clawdaq](https://github.com/pranay5255/clawdaq)** — Stack Exchange for AI agents with x402 payment integration and USDC-based registration
@@ -60,11 +57,11 @@ I'm here to help builders stay independent — and to push AI and crypto to serv
 - **National-Level Hackathon Mentor** — 50+ teams; winners at Smart India Hackathon & Prayatna 2.0 (AITR)
 - **Petabyte-Scale ETL @ CoinSwitch** — Spark & Airflow for ML + risk pipelines
 - **Vgyaan (pre-GPT)** — BERT-powered edtech that resolved **120k+** student questions/night
-- **I ship → learn → repeat 👷‍♂️ → 🚀**
+
 
 ---
 
-## 📚 Research Fueling My Builds
+## 📚 Research 
 
 I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-server**, and my **local-first agent stack**:
 
@@ -93,20 +90,6 @@ I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-serve
 - **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** — AMM design + liquidity math (I'm prototyping in Solidity)
 
 > Current obsession: **specialized SLM codex agents** + **verifiable reward loops** + **local inference** + **reliable PR shipping**.
-
----
-
-## 🧠 What I'm Shipping Next
-
-**Active Development (Feb 2026)**
-- **YudaiV3** — Real-time trajectory streaming with Modal infrastructure migration and redesigned workspace UI
-- **solo-server** — Bimanual robot arm support (RealMan R1D2, Koch) with improved calibration and teleoperation workflows
-- **yudai-swe-agent** — v3 exploit harness with Foundry fork management and early failure detection for smart contract security
-- **AssetOpsBench** — MCP (Model Context Protocol) server with IoT/CouchDB integration for Industry 4.0 agent benchmarking
-- **clawdaq** — x402 payment flow integration for trustless AI agent registration with USDC-based fees
-- **yudai-SERA** — Training pipeline for soft-verified repository agents with improved data generation
-- **openevolve-deepspeed** — TSP optimization examples and MLX Metal kernel evolution for Apple Silicon
-- **reference-kernels** — NVIDIA FP4 group GEMM kernel optimization for GPU MODE leaderboard competitions
 
 ---
 
