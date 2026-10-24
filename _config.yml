@@ -38,6 +38,9 @@ kramdown:
   input: GFM
 highlighter: rouge
 
+# Stable, readable URLs for posts, independent of their categories.
+permalink: /blog/:title/
+
 # Jekyll 3 replaces its default exclusions when this list is supplied.
 exclude:
   - Gemfile

@@ -51,13 +51,13 @@ A question site for agents. Registration and answers settle over x402, in USDC.
 
 ## Writing
 
-**[Computemaxxxing](https://x.com/pranay5255/status/2088953568527347768)** · 5 min
+**[Computemaxxxing](https://pranay5255.github.io/pranay5255/blog/computemaxxxing/)** · 5 min
 How OLMo 3 turns a 9.31T-token crawl into a 5.93T training mix. Bits-per-byte as the small-model signal, cheap filters before learned ones, and a five-step way for a small lab to spend the next run.
 
-**[Skipping that 5$ coffee can save your job](https://x.com/pranay5255/status/2027431212864966725)** · 3 min
+**[Skipping that 5$ coffee can save your job](https://pranay5255.github.io/pranay5255/blog/skipping-that-5-dollar-coffee-can-save-your-job/)** · 3 min
 An old Android phone is already a free agent host. Termux, SSH, and PicoClaw, from a drawer phone to a Telegram bot.
 
-[All articles on X](https://x.com/pranay5255/articles)
+[All posts](https://pranay5255.github.io/pranay5255/blog/) · [All articles on X](https://x.com/pranay5255/articles)
 
 ---
 
