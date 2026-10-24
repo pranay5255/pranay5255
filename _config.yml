@@ -1,0 +1,49 @@
+# Site identity and search/social metadata.
+title: Pranay Kundu
+tagline: Coding agents, smart-contract security, and GPU kernels
+description: >-
+  Pranay Kundu, founder of Yudai Labs in Bangalore. Projects and writing on
+  coding agents, smart-contract security, small coding models, and GPU kernels.
+lang: en
+timezone: Asia/Kolkata
+
+# GitHub Pages project site: keep the repository path out of url.
+# If moved to a pranay5255.github.io repository, set baseurl to "".
+url: "https://pranay5255.github.io"
+baseurl: "/pranay5255"
+repository: pranay5255/pranay5255
+
+author:
+  name: Pranay Kundu
+  url: "https://github.com/pranay5255"
+twitter:
+  username: pranay5255
+  card: summary
+social:
+  name: Pranay Kundu
+  links:
+    - https://github.com/pranay5255
+    - https://x.com/pranay5255
+    - https://linkedin.com/in/pranay5255
+
+# Supported by GitHub Pages' built-in Jekyll builder.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Render the existing README with GitHub-flavored Markdown.
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+# Jekyll 3 replaces its default exclusions when this list is supplied.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
