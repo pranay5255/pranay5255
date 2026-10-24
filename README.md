@@ -30,19 +30,12 @@ Here's what I'm actively shipping:
 - **[solo-server](https://github.com/pranay5255/solo-server)** — physical AI inference server powering 300+ deployments with LeRobot integration, bimanual arm support (RealMan R1D2, Koch), and local robot learning workflows
 - **[yudai-swe-agent](https://github.com/pranay5255/yudai-swe-agent)** — smart contract security agent automating audits, PoC generation, and fixes using Foundry, with exploit harness and early failure detection
 
-**🧪 Training & Benchmarks**
-- **[yudai-SERA](https://github.com/pranay5255/yudai-SERA)** — data generation and training for Soft-Verified Efficient Repository Agents
-- **[yudai-SWE-smith](https://github.com/pranay5255/yudai-SWE-smith)** — scaling bug synthesis and validation on Modal with JavaScript/Rust procedural modifiers
-
 
 **⛓️ Crypto-Native Tools**
 - **[clawdaq](https://github.com/pranay5255/clawdaq)** — Stack Exchange for AI agents with x402 payment integration and USDC-based registration
 - **[erc-8004-contracts](https://github.com/pranay5255/erc-8004-contracts)** — agent registry contracts curated for trustless agent infrastructure
 
-**⚡ Performance & Kernels**
-- **[reference-kernels](https://github.com/pranay5255/reference-kernels)** — GPU MODE leaderboard problems: NVIDIA FP4 group GEMM, dual GEMM optimization, kernel benchmarking
 
-I'm here to help builders stay independent — and to push AI and crypto to serve people, not gatekeepers.
 
 ---
 
@@ -61,33 +54,6 @@ I'm here to help builders stay independent — and to push AI and crypto to serv
 
 ---
 
-## 📚 Research 
-
-I read to ship. These are the ideas currently shaping **Yudai v3**, **solo-server**, and my **local-first agent stack**:
-
-### Reasoning, RL, and verifiable rewards
-- **[DeepSeek-R1](https://arxiv.org/abs/2501.12948)** — RL + distillation patterns for efficient reasoning (and what "reasoning supervision" really looks like)
-- **[Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2503.23829)** — reward design where correctness is checkable, not vibes
-
-
-### SWE agents, debugging, and data engines for code
-- **[SWE-smith](https://arxiv.org/abs/2504.21798)** — synthetic bug/task generation as a scaling lever for SWE agents
-- **[debug-gym](https://arxiv.org/abs/2503.21557)** — tool-augmented debugging environments + structured feedback loops
-- **[LLM → SLM Agent Conversion](https://arxiv.org/pdf/2506.02153)** — turning general LLMs into specialist codex/agent SLMs for workflows
-- **SWE-agent / mini-SWE patterns (execution harnesses)** — repo parsing → plan → edit loop → tests/CI → PR (the stuff that actually ships)
-
-### Small Language models Training LITERATURE
-- **[Qwen3 Technical Report](https://arxiv.org/abs/2505.09388)** — model family tradeoffs + what makes Qwen great for local coders
-- **Flash attention + long context scaling** — the practical path: throughput first, then context, then agent reliability
-- **[FlashAttention-3](https://arxiv.org/abs/2407.08608)** — exact attention engineering for real speed (H100-class kernels)
-- **[The Ultra-Scale Playbook (Hugging Face)](https://huggingface.co/spaces/nanotron/ultrascale-playbook/blob/main/The_Ultra-Scale_Playbook_Training_LLMs_on_GPU_Clusters.pdf)** — cluster + org patterns that actually work
-- **[Smol LM Training Playbook (Hugging Face)](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)** — small-model recipes: KD, data curation, eval discipline, deployment constraints
-
-### Systems worldview + where AI is pushing the frontier
-- **[Barbarians at the Gate: How AI is Upending Systems Research](https://arxiv.org/abs/2510.06189)** — how research changes when agents can prototype systems rapidly
-
-### Crypto mechanism design (because I can't not 😄)
-- **[NoFeeSwap Yellow Paper](https://www.nofeeswap.org/yellowpaper.pdf)** — AMM design + liquidity math (I'm prototyping in Solidity)
 
 > Current obsession: **specialized SLM codex agents** + **verifiable reward loops** + **local inference** + **reliable PR shipping**.
 
