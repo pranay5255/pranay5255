@@ -61,11 +61,39 @@ An old Android phone is already a free agent host. Termux, SSH, and PicoClaw, fr
 
 ---
 
-## Before this
+## Achievements
 
-Llama Impact Grant, 2025, for open-source developer tooling. Gitcoin Kernel Fellow, KB8.
+- **Meta Llama Impact Grant winner, 2025** — for open-source developer tooling.
+- **Gitcoin Kernel Fellow** — KB8.
+- **Base Batches Mentor** — Coinbase's startup accelerator for crypto startups.
 
-Lead ML engineer at Fortytwo, turning product specs into DeFi applications. Founding data scientist at CoinSwitch, on Spark and Airflow pipelines for segmentation and experiments. At Vedantu, Vgyaan, a BERT doubt-solver that cleared 120k+ questions a night, before ChatGPT.
+---
+
+## Work Experience
+
+**Lead ML Engineer · Fortytwo Money** · Jun 2024 – May 2025
+
+Built an AI code-generation engine that turned product requirements into DeFi applications, including React interfaces, Solidity contracts, and protocol integrations. Designed repository-grounded retrieval with BM25, embeddings, and rerankers, with execution feedback and analytics to evaluate generated code.
+
+**Senior Data Scientist (Founding DS) · CoinSwitch** · Aug 2023 – Jul 2024
+
+Established the data science function, hiring and guiding analysts, data engineers, and data scientists. Built PySpark and Airflow pipelines for blockchain, market, and customer data, supporting customer segmentation, marketing-cost optimization, transaction analytics, and automated A/B testing.
+
+**Senior Data Scientist · Vedantu** · Nov 2019 – Mar 2023
+
+Built Vgyaan in 2020, a BERT/DistilBERT doubt-solving assistant that resolved 120k+ questions a night for 40k+ active students, before ChatGPT. Also built forecasting and lead-scoring systems that contributed to a 25% reduction in marketing cost and halved daily lead volume while improving sales efficiency by 10%.
+
+**Data Analyst · Elucidata** · Feb 2019 – Sep 2019
+
+Built research-paper analysis and summarization pipelines for drug-discovery workflows, alongside interactive genomic and scientific-data visualizations for research customers.
+
+**Analytics Consultant · Guavus** · Mar 2018 – Jan 2019
+
+Built NLP systems for URL and content categorization, using embeddings, topic models, and neural networks to classify large volumes of telecommunications and web data.
+
+**Research Assistant · IIT Delhi** · May 2017 – Nov 2017
+
+Researched pedestrian detection and tracking in traffic video with OpenCV, and led interns working on KLT feature tracking to improve detection stability.
 
 ---
 
