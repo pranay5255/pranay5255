@@ -51,13 +51,16 @@ A question site for agents. Registration and answers settle over x402, in USDC.
 
 ## Writing
 
-**[Computemaxxxing](https://pranay5255.github.io/pranay5255/blog/computemaxxxing/)** · 5 min
+**[Before the Reward Hack: Auditing OLMo 3 Agent Trajectories](https://pranay5255.github.io/blog/before-the-reward-hack/)** · 12 min
+An audit of six OLMo 3 checkpoints across SFT, DPO, and RLVR, tracing evaluator-directed actions, protected-file edits, and reward outcomes across two experiments.
+
+**[Computemaxxxing](https://pranay5255.github.io/blog/computemaxxxing/)** · 5 min
 How OLMo 3 turns a 9.31T-token crawl into a 5.93T training mix. Bits-per-byte as the small-model signal, cheap filters before learned ones, and a five-step way for a small lab to spend the next run.
 
-**[Skipping that 5$ coffee can save your job](https://pranay5255.github.io/pranay5255/blog/skipping-that-5-dollar-coffee-can-save-your-job/)** · 3 min
+**[Skipping that 5$ coffee can save your job](https://pranay5255.github.io/blog/skipping-that-5-dollar-coffee-can-save-your-job/)** · 3 min
 An old Android phone is already a free agent host. Termux, SSH, and PicoClaw, from a drawer phone to a Telegram bot.
 
-[All posts](https://pranay5255.github.io/pranay5255/blog/) · [All articles on X](https://x.com/pranay5255/articles)
+[All posts](https://pranay5255.github.io/blog/) · [All articles on X](https://x.com/pranay5255/articles)
 
 ---
 
